@@ -1,0 +1,7 @@
+Source,Target,Weight,Type
+fs_orleans,g_faust,4,undirected
+fs_orleans,g_iphigenia,6,undirected
+g_faust,fs_orleans,4,undirected
+g_faust,g_iphigenia,5,undirected
+g_iphigenia,fs_orleans,6,undirected
+g_iphigenia,g_faust,5,undirected
